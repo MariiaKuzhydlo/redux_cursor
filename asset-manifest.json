@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/redux_cursor/static/js/main.c79804a6.js",
+    "static/js/787.5bd90e79.chunk.js": "/redux_cursor/static/js/787.5bd90e79.chunk.js",
+    "static/media/Comment.svg": "/redux_cursor/static/media/Comment.7abd8f5efcef8e6382a5585ac5f3227b.svg",
+    "static/media/Retweet.svg": "/redux_cursor/static/media/Retweet.0a74dee2bede1ee0bfeaefa2dac10c15.svg",
+    "static/media/Like.svg": "/redux_cursor/static/media/Like.78312a3fe5cb2221d3b4d11904af527e.svg",
+    "index.html": "/redux_cursor/index.html",
+    "static/media/Share.svg": "/redux_cursor/static/media/Share.a73abc70e5ec899f6fedd27d2b9f9445.svg",
+    "main.c79804a6.js.map": "/redux_cursor/static/js/main.c79804a6.js.map",
+    "787.5bd90e79.chunk.js.map": "/redux_cursor/static/js/787.5bd90e79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c79804a6.js"
+  ]
+}
